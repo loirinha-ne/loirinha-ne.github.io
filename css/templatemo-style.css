@@ -58,11 +58,11 @@ p {
 
 .tm-site-title { 
 	border: 2px solid #888481;
-	color: #fdfdfd00;
+	color: #000000;
 	display: inline-block;
 	font-size: 3rem; 
 	padding: 30px 40px;
-	background-color: black;
+	background-color: rgba(0, 0, 0, 0);
 }
 
 .tm-textbox {
